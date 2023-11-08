@@ -1,7 +1,8 @@
 # Movie-Rental-Analytics
 This is my capstone project on movie rental analytics 
 g-drive link - https://drive.google.com/file/d/1MhNkHUKkls742P0mkah2VO1aZ57R_Wen/view?usp=drive_link
-(optional link if above doesn't work)  https://drive.google.com/file/d/1KRv0R_vjhgUzZGJwcNO6wcNrFlg5ogna/view 
+
+>>>(optional link if above doesn't work)  https://drive.google.com/file/d/1KRv0R_vjhgUzZGJwcNO6wcNrFlg5ogna/view 
 
 OVERVIEW
 Sakila DVD Rental is a fictional company that operates a database of DVD rentals,
